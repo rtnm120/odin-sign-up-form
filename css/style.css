@@ -41,7 +41,7 @@ body div {
  */
 
 .left-column {
-    background-image: url("/images/column-background.jpg");
+    background-image: url("/odin-sign-up-form/images/column-background.jpg");
     background-position: center;
     background-size: cover;
     height: 1024px;
